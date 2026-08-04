@@ -2,7 +2,7 @@
 
 A spritesheet designed for Sokoban games.
 
-![Yoshi-san](Yoshi-san.png)
+![Yoshi-san](Yoshi-san.png?rev=1)
 
 ## Details
 
@@ -17,7 +17,7 @@ I created this Sokoban skin from scratch, adapting Borgar Þorsteinsson’s 'Yos
 
 Yoshi-san skin example:
 
-![Yoshi-san skin example](Yoshi-san-Example.png)
+![Yoshi-san skin example](Yoshi-san-Example.png?rev=1)
 
 ## License
 
